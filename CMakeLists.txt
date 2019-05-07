@@ -84,7 +84,7 @@ add_subdirectory (filecase)
 add_subdirectory (align)
 add_subdirectory (autowrap)
 add_subdirectory (drawline)
-add_subdirectory (editorcomp)
+#add_subdirectory (editorcomp)
 add_subdirectory (inside)
 add_subdirectory (incsrch)
 
