@@ -1013,7 +1013,7 @@
     <filename>/\.(mw|mediawiki)$/i</filename>
   </prototype>
   <prototype name="text" group="other" description="plain text">
-    <location link="misc/text.hrc"/>
+    <location link="zzz/text.hrc"/>
     <filename>/(read\.?me|\.txt$|\.rus|\.nfo|\.log|.*install.*|.*ChangeLog.*|AUTHORS|COPYING|FAQ|LICENSE|TODO$)/i</filename>
     <filename>/\.spo/ix</filename>
   </prototype>
@@ -1033,7 +1033,7 @@
   <!--  packages  -->
 
   <package name="def" description="core definitions">
-    <location link="lib/default.hrc"/>
+    <location link="zzz/default.hrc"/>
   </package>
   <package name="uri" description="URI (RFC 2396)">
     <location link="lib/uri.hrc"/>
