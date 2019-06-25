@@ -1,3 +1,5 @@
+**This version of far2l contains my personal hacks, it's not interesting to others**
+
 # far2l
 Linux port of FAR Manager v2 (http://farmanager.com/)
 ALPHA VERSION.
